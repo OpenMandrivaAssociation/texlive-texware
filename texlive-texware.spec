@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-texware
 Version:	20120627
-Release:	5
+Release:	6
 Summary:	Utility programs for use with TeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/systems/knuth/dist/texware
