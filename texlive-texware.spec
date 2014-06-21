@@ -1,12 +1,12 @@
-# revision 29764
+# revision 33736
 # category TLCore
 # catalog-ctan /systems/knuth/dist/texware
-# catalog-date 2012-06-27 22:19:02 +0200
+# catalog-date 2014-02-26 23:03:13 +0100
 # catalog-license knuth
 # catalog-version undef
 Name:		texlive-texware
-Version:	20120627
-Release:	6
+Version:	20140226
+Release:	1
 Summary:	Utility programs for use with TeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/systems/knuth/dist/texware
