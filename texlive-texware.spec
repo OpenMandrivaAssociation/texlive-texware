@@ -5,7 +5,7 @@
 # catalog-license knuth
 # catalog-version undef
 Name:		texlive-texware
-Version:	20170504
+Version:	20180331
 Release:	1
 Summary:	Utility programs for use with TeX
 Group:		Publishing
