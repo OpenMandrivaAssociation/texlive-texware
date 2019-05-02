@@ -5,8 +5,8 @@
 # catalog-license knuth
 # catalog-version undef
 Name:		texlive-texware
-Version:	20180331
-Release:	2
+Version:	20190327
+Release:	1
 Summary:	Utility programs for use with TeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/systems/knuth/dist/texware
