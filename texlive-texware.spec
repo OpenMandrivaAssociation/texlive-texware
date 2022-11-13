@@ -1,18 +1,12 @@
-# revision 33736
-# category TLCore
-# catalog-ctan /systems/knuth/dist/texware
-# catalog-date 2014-02-26 23:03:13 +0100
-# catalog-license knuth
-# catalog-version undef
 Name:		texlive-texware
-Version:	20190327
+Version:	62387
 Release:	1
 Summary:	Utility programs for use with TeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/systems/knuth/dist/texware
 License:	KNUTH
-Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/texware.tar.xz
-Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/texware.doc.tar.xz
+Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/texware.r%{version}.tar.xz
+Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/texware.doc.r%{version}.tar.xz
 BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
@@ -35,7 +29,7 @@ human readable Property List (PL) files and vice versa.
 
 #-----------------------------------------------------------------------
 %prep
-%setup -c -a0 -a1
+%autosetup -p1 -c -a1
 
 %build
 
