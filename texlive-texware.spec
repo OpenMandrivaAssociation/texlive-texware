@@ -1,6 +1,6 @@
 Name:		texlive-texware
 Version:	62387
-Release:	1
+Release:	2
 Summary:	Utility programs for use with TeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/systems/knuth/dist/texware
