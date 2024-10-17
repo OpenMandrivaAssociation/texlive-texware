@@ -3,7 +3,7 @@ Version:	70015
 Release:	1
 Summary:	Utility programs for use with TeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/systems/knuth/dist/texware
+URL:		https://www.ctan.org/tex-archive/systems/knuth/dist/texware
 License:	KNUTH
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/texware.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/texware.doc.r%{version}.tar.xz
