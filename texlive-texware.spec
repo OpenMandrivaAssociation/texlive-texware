@@ -1,5 +1,5 @@
 Name:		texlive-texware
-Version:	70015
+Version:	73848
 Release:	1
 Summary:	Utility programs for use with TeX
 Group:		Publishing
